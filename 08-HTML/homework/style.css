@@ -1,0 +1,18 @@
+
+
+h1{ color: black;}
+
+img{ height: 400px;
+width: 500px;}
+
+#thirdDiv{height: 850px;
+width: 550px;
+background-color: black;
+padding: 50px;
+border: 5px solid yellowgreen;
+}
+
+#spanId{ 
+  font-size: 25px;
+  margin: 50px;
+}
