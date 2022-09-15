@@ -1,0 +1,19 @@
+
+
+VARIABLES: Las variables son una forma de almacenar valores para algo que se usa mas tarde, para ejecutar dicha variable utilizamos palabras claves como por ejemplo VAR.
+En total tenemos tres formas de declarar una variable: 
+Var 
+Let
+Const
+
+STRING: Los string son textos los cuales para que funcionen los tenemos que colocar entre comillas, ya sean simples o dobles. 
+
+
+FUNCIONES (ARGUMENTOS, RETURN): Las funciones son importantes para poder calcular las variables, cambiarlas o hacer algo con ellas.
+para utilizar una función comenzamos con la palabra clave Function.
+
+
+DECLARACIONES IF
+
+
+VALORES BOOLEANOS (TRUE, FALSE): Los booleanos son utilizados para decir si algo es falso o verdadero, todo eso basandonos en la logica.
