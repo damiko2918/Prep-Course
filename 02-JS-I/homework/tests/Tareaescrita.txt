@@ -13,7 +13,7 @@ FUNCIONES (ARGUMENTOS, RETURN): Las funciones son importantes para poder calcula
 para utilizar una función comenzamos con la palabra clave Function.
 
 
-DECLARACIONES IF
+DECLARACIONES IF: Es una forma de hacer de que nuestra función vereficique si algo es verdadero(true)
 
 
 VALORES BOOLEANOS (TRUE, FALSE): Los booleanos son utilizados para decir si algo es falso o verdadero, todo eso basandonos en la logica.
